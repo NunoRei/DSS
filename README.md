@@ -2,7 +2,6 @@
 
 Software System Development
 
-ConfiguraFacil
-Car configuration java application.
+ConfiguraFacil - Car configuration java application.
 
-System modelling made with Paradigm.
+System modelling made with Visual Paradigm.
